@@ -22,7 +22,7 @@ Este projeto consiste no desenvolvimento de uma aplicação simples em Java para
 
 1. Clone este repositório:
    ```bash
-   git clone URL_DO_SEU_REPOSITORIO
+   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
    ```
 2. Abra o projeto em uma IDE, como NetBeans, Eclipse ou IntelliJ IDEA.
 3. Execute a classe principal do projeto.
